@@ -1,2 +1,2 @@
 Celsius = int(input("Enter value in Celsius"))
-print((Celsius * 9/5) + 32)
+print("Celsius:",Celsius, ", Fahrenheit:",(Celsius * 9/5) + 32)
