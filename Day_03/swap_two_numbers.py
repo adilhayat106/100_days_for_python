@@ -5,4 +5,4 @@ num_2 = int(input("Enter Number"))
 #swaping numbers
 num = num_1,num_2=num_2,num_1
 
-print(num)
+print("numbers after swaping:",num)
